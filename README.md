@@ -12,6 +12,6 @@ Currently these actions can be performed using the bot:
   7. view the story(if present) of a user
   8. Extract List of followers of a user
 
-Wait and sleep has been used at appropriate places, so that the actual functioning is visible and and instragram also does not find the activity to be suspicious.
+Wait and sleep has been used at appropriate places, so that the actual functioning is visible and instragram also does not find the activity to be suspicious.
 
 ⭐️ From [AnmolJindal2019](https://github.com/AnmolJindal2019)
